@@ -1,0 +1,17 @@
+{
+	"name": "Foreword/phpMorphyLang_en_EN",
+	"type": "library",
+	"description": "Mirror of en-EN bin dictionary for phpMorphy: http://phpmorphy.sourceforge.net/",
+	"homepage": "https://github.com/Foreword/phpMorphyLang_en_EN",
+	"require": {
+	},
+	"require-dev": {
+	},
+	"scripts": {
+	},
+	"autoload": {
+		"psr-4": {
+			"Foreword\\phpMorphyLang_en_EN\\": "psr-4"
+		}
+	}
+}
